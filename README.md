@@ -34,7 +34,7 @@ Demo-able unit test to verify functionality & test the intregrity of the solutio
 
 #### Unit Test
 ```
-com.revolut.banking.AccountServiceTest
+com.banking.AccountServiceTest
 
 ```
 
